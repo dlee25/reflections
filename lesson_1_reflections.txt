@@ -1,3 +1,9 @@
+1/18/17
+
+Making a change to be able to commit to git.
+
+
+
 Ah, after installing how to access the sublime interface from terminal I barely remember what I just learned! ha.
 
 I think I learned about diff'ing files through terminal. I'm now starting to understand why Bob was always so frustrated with me and my fancy interfaces. lol.
